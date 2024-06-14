@@ -1,11 +1,5 @@
 {
-    "menu": [
-      {
-        "type": "header",
-        "accountName": "Alan Vega",
-        "accountEmail": "alanvega@gmail.com",
-        "accountPicture": "AV"
-      },
+    "menu": [      
       {
         "type": "item",
         "title": "Clase",
@@ -78,18 +72,6 @@
         "title": "Contáctanos",
         "icon": "Icons.contacts",
         "route": 9,
-        "roles": ["admin", "user"]
-      },
-      {
-        "type": "divider",
-        "roles": ["admin", "user"]
-      },
-      {
-        "type": "item",
-        "title": "Cerrar Sesión",
-        "icon": "Icons.exit_to_app",
-        "route": "logout",
-        "color": "Colors.red",
         "roles": ["admin", "user"]
       }
     ]
