@@ -1,27 +1,27 @@
 {
     "users": [
         {
-            "idUser": "",
-            "nombre": "",
-            "apellido": "",
-            "email": "",
-            "contrasena": "",
+            "idUser": "1",
+            "nombre": "alan",
+            "apellido": "vega",
+            "email": "alanvega@gmail.com",
+            "contrasena": "As123456",
             "rol": "cliente"
         },
         {
-            "idUser": "",
-            "nombre": "",
-            "apellido": "",
-            "email": "",
-            "contrasena": "",
+            "idUser": "2",
+            "nombre": "edmundo",
+            "apellido": "amaro",
+            "email": "edmundoamaro@gmail.com",
+            "contrasena": "As123456",
             "rol": "user"
         },
         {
-            "idUser": "",
-            "nombre": "",
-            "apellido": "",
-            "email": "",
-            "contrasena": "",
+            "idUser": "3",
+            "nombre": "vega",
+            "apellido": "amaro",
+            "email": "vegaamaro@gmail.com",
+            "contrasena": "As123456",
             "rol": "admin"
         }
     ]
