@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "idUser": "",
+            "nombre": "",
+            "apellido": "",
+            "email": "",
+            "contrasena": "",
+            "rol": "cliente"
+        },
+        {
+            "idUser": "",
+            "nombre": "",
+            "apellido": "",
+            "email": "",
+            "contrasena": "",
+            "rol": "user"
+        },
+        {
+            "idUser": "",
+            "nombre": "",
+            "apellido": "",
+            "email": "",
+            "contrasena": "",
+            "rol": "admin"
+        }
+    ]
+}
