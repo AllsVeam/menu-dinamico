@@ -1,0 +1,92 @@
+{
+    "menu": [
+        {
+            "title": "Clase",
+            "icon": "Icons.abc",
+            "ruta": 0,
+            "roles": [
+                "cliente",
+                "user",
+                "admin"
+            ]
+        },
+        {
+            "title": "Servicios y Especialidades",
+            "icon": "Icons.room_service",
+            "ruta": 1,
+            "roles": [
+                "cliente"
+            ]
+        },
+        {
+            "title": "Favoritos",
+            "icon": "Icons.favorite",
+            "ruta": 2,
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "title": "Buzón de notificaciones",
+            "icon": "Icons.email",
+            "ruta": 3,
+            "roles": [
+                "admin"                
+            ]
+        },
+        {
+            "title": "Resumen de expediente",
+            "icon": "Icons.description",
+            "ruta": 4,
+            "roles": [
+                "cliente",
+                "user",
+                "admin"
+            ]
+        },
+        {
+            "title": "Contáctanos",
+            "icon": "Icons.contacts",
+            "ruta": 5,
+            "roles": [
+                "cliente",
+                "user",
+                "admin"
+            ]
+        }
+    ],
+    "submenu": [
+        {
+            "title": "Usuario",
+            "icon": "Icons.accessibility",
+            "ruta": 1,
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "title": "Perfil",
+            "icon": "Icons.account_circle",
+            "ruta": 2,
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "title": "Antecedentes",
+            "icon": "Icons.assignment_late",
+            "ruta": 3,
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "title": "Métodos de pago",
+            "icon": "Icons.call_to_action",
+            "ruta": 4,
+            "roles": [
+                "user"
+            ]
+        }
+    ]
+}
