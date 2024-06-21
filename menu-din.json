@@ -59,7 +59,7 @@
         {
             "title": "Usuario",
             "icon": "Icons.accessibility",
-            "ruta": 1,
+            "ruta": 0,
             "roles": [
                 "user"
             ]
@@ -67,7 +67,7 @@
         {
             "title": "Perfil",
             "icon": "Icons.account_circle",
-            "ruta": 2,
+            "ruta": 1,
             "roles": [
                 "user"
             ]
@@ -75,7 +75,7 @@
         {
             "title": "Antecedentes",
             "icon": "Icons.assignment_late",
-            "ruta": 3,
+            "ruta": 2,
             "roles": [
                 "user"
             ]
@@ -83,7 +83,7 @@
         {
             "title": "Métodos de pago",
             "icon": "Icons.call_to_action",
-            "ruta": 4,
+            "ruta": 3,
             "roles": [
                 "user"
             ]
