@@ -88,5 +88,23 @@
                 "user"
             ]
         }
+    ],
+    "submenuSer": [
+        {
+            "title": "Programar Cita",
+            "icon": "Icons.accessibility",
+            "ruta": 0,
+            "roles": [
+                "user"
+            ]
+        },
+        {
+            "title": "Pago de cita",
+            "icon": "Icons.account_circle",
+            "ruta": 1,
+            "roles": [
+                "user"
+            ]
+        }        
     ]
 }
