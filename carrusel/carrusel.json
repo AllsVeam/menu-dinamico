@@ -1,0 +1,33 @@
+{
+    "estatus": 200,
+    "mensaje": "OK",
+    "informacion": {
+        "carrusel": [
+            {
+                "id": 1,
+                "nombre": "bienvenido",
+                "imagen": ""
+            },
+            {
+                "id": 2,
+                "nombre": "beneficios",
+                "imagen": ""
+            },
+            {
+                "id": 3,
+                "nombre": "usoapp",
+                "imagen": ""
+            },
+            {
+                "id": 4,
+                "nombre": "servicios",
+                "imagen": ""
+            },
+            {
+                "id": 5,
+                "nombre": "preguntas",
+                "imagen": ""
+            }
+        ]
+    }
+}
