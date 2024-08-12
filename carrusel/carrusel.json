@@ -6,27 +6,27 @@
             {
                 "id": 1,
                 "nombre": "bienvenido",
-                "imagen": ""
+                "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/bienvenido.jpg"
             },
             {
                 "id": 2,
                 "nombre": "beneficios",
-                "imagen": ""
+                "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/beneficios.jpg"
             },
             {
                 "id": 3,
                 "nombre": "usoapp",
-                "imagen": ""
+                "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/usoapp.jpg"
             },
             {
                 "id": 4,
                 "nombre": "servicios",
-                "imagen": ""
+                "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/servicios.jpg"
             },
             {
                 "id": 5,
                 "nombre": "preguntas",
-                "imagen": ""
+                "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/preguntas.jpg"
             }
         ]
     }
