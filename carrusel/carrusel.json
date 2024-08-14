@@ -4,27 +4,27 @@
     "informacion": {
         "carrusel": [
             {
-                "carrusel_id": 1,
+                "carruselId": 1,
                 "nombre": "bienvenido",
                 "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/bienvenido.jpg"
             },
             {
-                "carrusel_id": 2,
+                "carruselId": 2,
                 "nombre": "beneficios",
                 "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/beneficios.jpg"
             },
             {
-                "carrusel_id": 3,
+                "carruselId": 3,
                 "nombre": "usoapp",
                 "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/usoapp.jpg"
             },
             {
-                "carrusel_id": 4,
+                "carruselId": 4,
                 "nombre": "servicios",
                 "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/servicios.jpg"
             },
             {
-                "carrusel_id": 5,
+                "carruselId": 5,
                 "nombre": "preguntas",
                 "imagen": "https://raw.githubusercontent.com/AllsVeam/menu-dinamico/main/carrusel/img/preguntas.jpg"
             }
